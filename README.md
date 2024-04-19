@@ -12,6 +12,10 @@ semantic similarity model using LSTM in TensorFLow
 ### Word COunt
 ![word-count-normed](https://github.com/parvpareek/sentence-similarity/assets/26191530/3fab40b5-45a1-4f85-9e99-17fdb589ffcb)
 
+### Fuzzy Ratios
+![download](https://github.com/parvpareek/sentence-similarity/assets/26191530/13f4a85e-9088-4d11-87c5-c955ded992f2)
+
+
 ### Character count
 ![character-count](https://github.com/parvpareek/sentence-similarity/assets/26191530/1379aff2-0ebe-49d5-a244-d89b7b2ea2a8)
 
