@@ -4,7 +4,8 @@ semantic similarity model using LSTM in TensorFLow
 ### Install Dependencies
 ```pip install kaggle seaborn pandas numpy scikit-learn keras tensorflow fuzzywuzzy gensim ```
 
-
+### Embeddings
+Glove 6b 200d embdeddings were used. Download [here](https://nlp.stanford.edu/projects/glove/)
 
 ### Question Occurences
 ![question-occurences](https://github.com/parvpareek/sentence-similarity/assets/26191530/aed9fc34-85e0-4554-b9d7-cca5b4d1f55e)
